@@ -1,12 +1,13 @@
-## Hi there 👋
+# Multi
 
-<!--
+## Sobre a Empresa
 
-**Here are some ideas to get you started:**
+Completar...
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Tecnologias Utilizadas
+
+Nossa empresa utiliza uma ampla gama de tecnologias de ponta para fornecer soluções eficazes e de alto desempenho. Alguns dos principais tecnologias que empregamos incluem:
+
+- **Typescript**: Uma linguagem de programação essencial para o desenvolvimento web, incluindo frameworks como React, Fastify.
+- **Node.js**: Uma plataforma de desenvolvimento JavaScript que permite criar aplicativos de rede escaláveis e de alta performance.
+- **PostgreSQL**: Um sistema de gerenciamento de banco de dados relacional amplamente utilizado, conhecido por sua confiabilidade e desempenho.
