@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>🚀 Multi 💫</strong>
+🚀 Multi 
 </h1> 
 
 ## Sobre a Empresa
