@@ -12,7 +12,7 @@ Nossa empresa utiliza uma ampla gama de tecnologias de ponta para fornecer solu�
 
 - **Typescript**: Uma linguagem de programação essencial para o desenvolvimento web, incluindo frameworks como React, Fastify.
 - **Node.js**: Uma plataforma de desenvolvimento JavaScript que permite criar aplicativos de rede escaláveis e de alta performance.
-- **PostgreSQL**: Um sistema de gerenciamento de banco de dados relacional amplamente utilizado, conhecido por sua confiabilidade e desempenho.
+- **MongoDB**: Um sistema de gerenciamento de banco de dados não relacional amplamente utilizado, conhecido por sua confiabilidade e desempenho.
 
 <hr>
 
@@ -26,4 +26,4 @@ Our company utilizes a wide range of cutting-edge technologies to deliver high-p
 
 - **TypeScript**: An essential programming language for web development, including frameworks such as React and Fastify.
 - **Node.js**: A JavaScript runtime environment that allows for the creation of scalable and high-performance network applications.
-- **PostgreSQL**: A widely used relational database management system, known for its reliability and performance.
+- **MongoDB**: A widely used non-relational database management system, known for its reliability and performance.
